@@ -3,4 +3,6 @@ build:
     - "transformers>=4.31.0"
     - "peft==0.6.0"
     - "torch==2.1.0"
-    - "bitsandbytes"
+    - "bitsandbytes>=0.41.0"
+    - "bitsandbytes-cuda110>=0.26.0"
+    - "scipy==1.10.0"
