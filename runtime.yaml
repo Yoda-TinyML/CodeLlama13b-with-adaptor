@@ -3,3 +3,4 @@ build:
     - "transformers>=4.31.0"
     - "peft==0.6.0"
     - "torch==2.1.0"
+    - "bitsandbytes"
